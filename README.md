@@ -1,0 +1,1 @@
+# Welch-Powell-Algoritmas-
