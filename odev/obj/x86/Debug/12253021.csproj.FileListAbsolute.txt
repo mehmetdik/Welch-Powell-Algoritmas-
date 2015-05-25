@@ -1,0 +1,6 @@
+C:\odev\odev\obj\x86\Debug\odev.exe
+C:\odev\odev\obj\x86\Debug\odev.pdb
+C:\odev\odev\bin\Debug\odev.exe
+C:\odev\odev\bin\Debug\odev.pdb
+C:\12253021\odev\obj\x86\Debug\odev.exe
+C:\12253021\odev\obj\x86\Debug\odev.pdb

@@ -1,0 +1,81 @@
+﻿Kırklareli Edirne Tekirdağ
+Edirne Kırklareli Tekirdağ Çanakkale
+İstanbul Kocaeli Tekirdağ
+Çanakkale Tekirdağ Edirne Balıkesir
+Tekirdağ Edirne Kırklareli İstanbul Çanakkale
+Yalova Kocaeli Bursa
+Bursa Balıkesir Kütahya Bilecik Kocaeli Yalova
+Sakarya Kocaeli Düzce Bilecik Bolu Bursa
+Kocaeli İstanbul Sakarya Yalova Bursa
+Bilecik Sakarya Bolu Eskişehir Kütahya Bursa
+Kütahya Bursa Bilecik Eskişehir Afyon Uşak Manisa Balıkesir
+Balıkesir Çanakkale Bursa İzmir Manisa Kütahya
+Manisa İzmir Balıkesir Kütahya Uşak Denizli Aydın
+Uşak Manisa Kütahya Denizli Afyon
+İzmir Balıkesir Manisa Aydın
+Denizli Aydın Manisa Uşak Afyon Burdur Muğla
+Aydın İzmir Denizli Manisa Muğla
+Muğla Aydın Denizli Burdur Antalya
+Antalya Muğla Burdur Isparta Konya Karaman İçel
+Burdur Denizli Afyon Isparta Antalya Muğla
+Isparta Burdur Afyon Konya Antalya
+Afyon Uşak Kütahya Eskişehir Konya Isparta Burdur Denizli
+Eskişehir Kütahya Bilecik Bolu Ankara Konya Afyon
+Bolu Sakarya Düzce Zonguldak Karabük Ankara Eskişehir Bilecik
+Ankara Eskişehir Bolu Çankırı Kırıkkale Kırşehir Aksaray Konya
+Düzce Sakarya Bolu Zonguldak
+Zonguldak Düzce Bolu Karabük Bartın
+Bartın Zonguldak Karabük Kastamonu
+Karabük Zonguldak Bartın Kastamonu Çankırı Bolu
+Kastamonu Bartın Karabük Çankırı Çorum Sinop
+Çankırı Karabük Kastamonu Çorum Ankara Bolu Kırıkkale
+Kırıkkale Ankara Çankırı Çorum Yozgat Kırşehir
+Kırşehir Ankara Kırıkkale Yozgat Nevşehir Aksaray
+Aksaray Konya Niğde Nevşehir Kırşehir Ankara
+Konya Ankara Afyon Isparta Antalya Karaman İçel Niğde Aksaray
+Karaman Konya Antalya İçel
+İçel Antalya Karaman Konya Niğde Adana
+Niğde Konya İçel Adana Kayseri Nevşehir Aksaray
+Nevşehir Aksaray Kırşehir Yozgat Kayseri Niğde
+Yozgat Kırıkkale Çorum Amasya Tokat Sivas Kayseri Nevşehir Kırşehir
+Çorum Çankırı Kastamonu Sinop Amasya Samsun Yozgat Kırıkkale
+Sinop Kastamonu Çorum Samsun
+Samsun Sinop Çorum Amasya Tokat Ordu
+Amasya Samsun Tokat Yozgat Çorum
+Tokat Amasya Yozgat Sivas Ordu
+Ordu Samsun Giresun Sivas Tokat
+Sivas Tokat Ordu Giresun Erzincan Malatya Kahramanmaraş Kayseri Yozgat
+Kayseri Yozgat Sivas Kahramanmaraş Adana Niğde Nevşehir
+Adana İçel Niğde Kayseri Kahramanmaraş Osmaniye Hatay
+Hatay Adana Osmaniye Gaziantep
+Osmaniye Adana Kahramanmaraş Gaziantep Hatay
+Kahramanmaraş Osmaniye Adana Kayseri Sivas Malatya Adıyaman Gaziantep
+Gaziantep Kilis Hatay Osmaniye Kahramanmaraş Adıyaman Şanlıurfa
+Kilis Gaziantep
+Şanlıurfa Gaziantep Adıyaman Diyarbakır Mardin
+Adıyaman Kahramanmaraş Malatya Diyarbakır Şanlıurfa Gaziantep
+Malatya Sivas Erzincan Elazığ Diyarbakır Adıyaman Kahramanmaraş
+Erzincan Sivas Giresun Gümüşhane Bayburt Erzurum Bingöl Tunceli Malatya
+Gümüşhane Giresun Trabzon Bayburt Erzincan
+Bayburt Gümüşhane Trabzon Rize Erzurum Erzincan
+Rize Trabzon Bayburt Erzurum Artvin
+Erzurum Erzincan Bayburt Rize Artvin Ardahan Kars Ağrı Muş Bingöl
+Bingöl Tunceli Erzincan Erzurum Muş Diyarbakır Elazığ
+Tunceli Erzincan Elazığ Bingöl
+Elazığ Malatya Tunceli Bingöl Diyarbakır
+Diyarbakır Malatya Elazığ Bingöl Muş Batman Mardin Şanlıurfa Adıyaman
+Mardin Şanlıurfa Diyarbakır Batman Şırnak
+Batman Mardin Diyarbakır Muş Bitlis Siirt
+Şırnak Mardin Siirt Van Hakkari
+Siirt Batman Bitlis Van Şırnak
+Hakkari Şırnak Van
+Van Hakkari Şırnak Siirt Bitlis Ağrı
+Bitlis Batman Siirt Van Muş Ağrı
+Muş Bingöl Diyarbakır Batman Bitlis Ağrı Erzurum
+Ağrı Erzurum Muş Bitlis Van Iğdır Kars
+Iğdır Kars Ağrı
+Kars Ardahan Erzurum Ağrı Iğdır
+Ardahan Artvin Erzurum Kars
+Artvin Rize Erzurum Ardahan
+Giresun Ordu Sivas Erzincan Gümüşhane Trabzon
+Trabzon Giresun Gümüşhane Bayburt Rize

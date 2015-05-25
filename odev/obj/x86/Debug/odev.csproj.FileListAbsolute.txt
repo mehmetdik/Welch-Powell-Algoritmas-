@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\odev\odev\bin\Debug\odev.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\odev\odev\bin\Debug\odev.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\odev\odev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\odev\odev\obj\x86\Debug\odev.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\odev\odev\obj\x86\Debug\odev.pdb
+C:\Users\ÖmerFaruk\Desktop\odev\odev\bin\Debug\odev.exe
+C:\Users\ÖmerFaruk\Desktop\odev\odev\bin\Debug\odev.pdb
+C:\Users\ÖmerFaruk\Desktop\odev\odev\obj\x86\Debug\odev.exe
+C:\Users\ÖmerFaruk\Desktop\odev\odev\obj\x86\Debug\odev.pdb
+C:\Users\ÖmerFaruk\Desktop\odev\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
+C:\odev\odev\obj\x86\Debug\odev.exe
+C:\odev\odev\obj\x86\Debug\odev.pdb
+C:\odev\odev\bin\Debug\odev.exe
+C:\odev\odev\bin\Debug\odev.pdb
+C:\odev\odev\obj\x86\Debug\odev.csprojResolveAssemblyReference.cache
